@@ -1,6 +1,6 @@
 baseURL = "https://dopaminegirl19.github.io/"
 languageCode = "en-us"
-title = "morgane m"
+title = "morgane moss"
 theme="archie"
 copyright = "© Morgane Moss"
 pygmentsstyle = "monokai"
@@ -11,11 +11,6 @@ pygmentscodefencesguesssyntax = true
 	useCDN=false
 
 [[menu.main]]
-name = "about me"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "example projects"
+name = "projects"
 url = "/projects"
-weight = 2
+weight = 1

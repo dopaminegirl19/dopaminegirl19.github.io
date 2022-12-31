@@ -10,7 +10,7 @@ My name is Morgane. I currently work in AI for energy transition <br />at a cons
 <br />
 
 
-{{<figure src="/images/me.jpg" width="350">}}
+{{<figure src="images/me.jpg" width="350">}}
 
 <br />
 <br />

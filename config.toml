@@ -1,0 +1,21 @@
+baseURL = "https://dopaminegirl19.github.io/"
+languageCode = "en-us"
+title = "morgane m"
+theme="archie"
+copyright = "© Morgane Moss"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+
+[[menu.main]]
+name = "about me"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "example projects"
+url = "/projects"
+weight = 2

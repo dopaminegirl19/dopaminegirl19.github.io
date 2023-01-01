@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on morgane moss</title>
+    <link>https://dopaminegirl19.github.io/projects/</link>
+    <description>Recent content in Projects on morgane moss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Morgane Moss</copyright>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dopaminegirl19.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mushrooms</title>
+      <link>https://dopaminegirl19.github.io/projects/mushroomcushion/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dopaminegirl19.github.io/projects/mushroomcushion/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>A shared ownership app in Golang</title>
+      <link>https://dopaminegirl19.github.io/projects/usership/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dopaminegirl19.github.io/projects/usership/</guid>
+      <description>Many of the things we consume we need but seldom use. Usership describes a mode of possession centered around sharing fewer objects within a group, rather than individual ownership of these items. The benefits of usership are cost efficiency and reduced consumption.
+I started writing a terminal user interface app in Golang which allows groups of people to keep an inventory of their shared possessions and who currently has what. The idea is that you can then text/call/email the person who has the item you need and arrange to pick it up, then update that in the inventory.</description>
+    </item>
+    
+  </channel>
+</rss>

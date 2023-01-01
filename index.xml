@@ -37,5 +37,24 @@ I started writing a terminal user interface app in Golang which allows groups of
 Link to repo.</description>
     </item>
     
+    <item>
+      <title>Two deep RL agents play tennis</title>
+      <link>https://dopaminegirl19.github.io/projects/tennis/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dopaminegirl19.github.io/projects/tennis/</guid>
+      <description>Two deep reinforcement learning agents, built in Pytorch, play collaboratively to rally a tennis ball over a net.
+Find the repo here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dopaminegirl19.github.io/projects/camel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dopaminegirl19.github.io/projects/camel/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

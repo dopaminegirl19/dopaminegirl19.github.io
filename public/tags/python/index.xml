@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on morgane moss</title>
+    <link>https://dopaminegirl19.github.io/tags/python/</link>
+    <description>Recent content in python on morgane moss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Morgane Moss | (morganemoss) at g mail (dot) com</copyright>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dopaminegirl19.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gRPC</title>
+      <link>https://dopaminegirl19.github.io/projects/grpc/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dopaminegirl19.github.io/projects/grpc/</guid>
+      <description>gRPC is an open source library for remote procedure calls. The objective here was to familiarise myself with remote procedure calling, and Google protocol buffers.
+Link to repo.</description>
+    </item>
+    
+  </channel>
+</rss>
